@@ -11,6 +11,7 @@
 }
 
 .content {
+
 	margin-left: 20px;
 }
 
@@ -51,3 +52,6 @@ h1, h2, h3, h4 {
 	color: #000000;
 }
 
+.comment {
+	margin: 20px 0px 20px 20px;
+}
